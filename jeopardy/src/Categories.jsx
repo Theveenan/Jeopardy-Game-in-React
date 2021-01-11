@@ -13,8 +13,8 @@ class Categories extends React.Component{
     <div>
       <h>Select 5 Categories from the lists below to start playing</h>
   <form id="myForm">
-    <select id="selectNumber">
-      <option>Choose a number</option>
+    <select id="selectCategory">
+      <option>Choose a Category</option>
     </select>
   </form>
      
